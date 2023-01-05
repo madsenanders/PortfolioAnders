@@ -1,0 +1,45 @@
+/**
+*/
+.panePrislisteBtns {
+    /*
+    -fx-background-image: url("images/yahtzee_22.jpg");
+    -fx-background-size: auto;
+    -fx-background-position: -75 -80;
+    -fx-background-repeat: no-repeat;
+    -fx-border-color: rgb(255, 0, 0);
+    -fx-border-width: 5px;
+
+    */
+
+
+}
+
+.btnOptions {
+    /*
+     */
+    -fx-background-image: url("images/option-icon-9.jpg");
+
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 70%;
+    -fx-pref-width: 50;
+    -fx-pref-height: 50;
+    -fx-min-width: 50;
+    -fx-min-height: 50;
+
+
+}
+
+/**
+ */
+.btnPrisliste {
+    -fx-pref-width: 600;
+    -fx-pref-height: 100;
+    -fx-font-size: 30pt;
+    -fx-cursor: hand;
+ }
+
+/**
+*/
+.btnPrisliste:hover {
+}

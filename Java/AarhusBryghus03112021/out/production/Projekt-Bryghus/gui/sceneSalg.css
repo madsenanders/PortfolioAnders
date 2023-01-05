@@ -1,0 +1,171 @@
+/**
+*/
+.paneSalg {
+    /*
+    -fx-background-image: url("images/yahtzee_22.jpg");
+    -fx-background-size: auto;
+    -fx-background-position: -75 -80;
+    -fx-background-repeat: no-repeat;
+
+ghfgghf
+    */
+
+    -fx-background-color: rgb(255, 255, 255);
+
+}
+
+.lblHeadlinePaneLeft {
+    -fx-font-size: 20pt;
+}
+
+.btnBack {
+    /*
+    -fx-pref-width: 75;
+     */
+    -fx-font-size: 12pt;
+
+}
+
+/* --- Kategorier -------------------------------------------------------------------------------------------------- */
+
+.paneKat, .paneProdukter {
+    -fx-font-size: 15pt;
+    -fx-border-width: 1;
+    -fx-border-color: rgb(0, 0, 0);
+}
+
+
+
+.btnKat {
+    -fx-pref-width: 150;
+    -fx-pref-height: 100;
+    -fx-min-width: 100;
+    -fx-wrap-text: true;
+    -fx-text-alignment: center;
+    -fx-background-color: #6cc5e9;
+}
+
+/* --- Produkter --------------------------------------------------------------------------------------------------- */
+
+.paneProdukter {
+
+}
+
+
+
+.btnProdukt {
+    -fx-pref-width: 150;
+    -fx-pref-height: 100;
+    -fx-wrap-text: true;
+    -fx-font-size: 15pt;
+    -fx-text-alignment: center;
+    -fx-padding: 5 10;
+    -fx-background-color: #00ce7d;
+}
+
+
+
+
+
+/* --- Ordre ------------------------------------------------------------------------------------------------------- */
+
+.paneOrdre {
+    -fx-font-size: 15pt;
+    -fx-border-width: 1;
+    -fx-border-color: rgb(0, 0, 0);
+}
+
+.scrollPaneOrdrelinjer {
+    -fx-border-width: 0;
+    -fx-background-color: rgba(255, 255, 255, 0.0); /* Acts as border. */
+    -fx-pref-width: 5000;
+}
+
+.paneOrdrelinjerContainer {
+    -fx-border-width: 1;
+    -fx-border-color: rgb(200, 200, 200);
+}
+
+.lblOrdre {
+    -fx-font-size: 20pt;
+}
+
+/* --- Ordrelinjer --- */
+
+.lblLegendProduktnavn, .lblLegendAntal, .lblLegendStkPris, .lblLegendStkKlip,
+.lblLegendRabat, .lblLegendSamletKlip, .lblLegendSamletPris {
+    -fx-font-size: 10pt;
+    -fx-font-weight: bold;
+    -fx-padding: 0;
+    -fx-alignment: baseline-center;
+}
+
+.lblLegendProduktnavn {
+    -fx-alignment: baseline-left;
+}
+
+.lblLegendSamletPris {
+     -fx-alignment: baseline-right;
+}
+
+
+.lblLegendProduktnavn, .lblProduktnavn, .lblTotalKr, .lblTotalKlip {
+    -fx-pref-width: 4000;
+    -fx-min-width: 60;
+}
+
+
+.lblLegendAntal, .txtfAntal {
+    -fx-min-width: 55;
+}
+
+.lblLegendStkKlip, .lblStkKlip {
+   -fx-min-width: 55;
+}
+
+.lblLegendStkPris, .lblStkPris {
+    -fx-min-width: 65;
+}
+
+.lblLegendRabat, .txtfRabat {
+    -fx-min-width: 65;
+}
+
+.lblLegendSamletKlip, .lblSamletKlip {
+     -fx-min-width: 50;
+}
+
+.lblLegendSamletPris, .lblSamletPris, .lblTotalKrValue, .lblTotalKlipValue  {
+    -fx-min-width: 100;
+    -fx-padding: 0 10 0 0;
+}
+
+.lblProduktnavn, .txtfAntal, .lblStkPris, .lblStkKlip, .txtfRabat, .lblSamletKlip, .lblSamletPris {
+    -fx-alignment: baseline-right;
+    -fx-font-size: 12pt;
+}
+
+.lblProduktnavn  {
+    -fx-alignment: baseline-left;
+}
+
+.lblTotalKr, .lblTotalKrValue, .lblTotalKlip, .lblTotalKlipValue  {
+    -fx-alignment: baseline-right;
+    -fx-font-size: 13pt;
+    -fx-font-weight: bold;
+}
+
+.lblTotalKlip, .lblTotalKlipValue {
+    -fx-font-weight: normal;
+}
+
+
+/* --- Afregning --- */
+
+.paneAfregning {
+}
+
+.btnAfregningBetal, .btnAfregningAnnuller {
+    -fx-pref-width: 125;
+     -fx-font-size: 12pt;
+}
