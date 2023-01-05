@@ -1,0 +1,24 @@
+.buttonRoll {
+    border: solid;
+    display: inline-grid;
+    margin-left:100px;
+}
+
+.terning {
+    border: solid;
+    display: inline-grid;
+}
+
+.rulleresultater {
+    border: solid;
+    display: inline-grid;
+}
+
+.sumbonus {
+    border: solid;
+    display: inline-grid;
+}
+.total {
+    border: solid;
+    display: inline-grid;
+}
