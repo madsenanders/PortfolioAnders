@@ -1,0 +1,44 @@
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\DTO\bin\Debug\DTO.dll
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\DTO\bin\Debug\DTO.pdb
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\DTO\obj\Debug\DTO.dll
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\DTO\obj\Debug\DTO.pdb
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\DTO\bin\Debug\DTO.dll
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\DTO\bin\Debug\DTO.pdb
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\DTO\obj\Debug\DTO.dll
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\DTO\obj\Debug\DTO.pdb
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\DTO.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\DTO.pdb
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\obj\Debug\DTO.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\obj\Debug\DTO.pdb
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\DTO.dll.config
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\System.Buffers.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\System.Memory.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\System.Net.Http.Json.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\System.Text.Json.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\System.ValueTuple.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\System.Buffers.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\System.Memory.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\System.Net.Http.Json.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\System.Text.Json.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\System.ValueTuple.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\EntityFramework.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\EntityFramework.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\DTO\bin\Debug\EntityFramework.SqlServer.xml
