@@ -1,0 +1,42 @@
+﻿<Window x:Class="KatGUIWPF.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KatGUIWPF"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="SearchButton" Content="Søg Kat" HorizontalAlignment="Left" Height="28" Margin="70,68,0,0" VerticalAlignment="Top" Width="66" Click="SearchButton_Click"/>
+        <Label Content="Id:" HorizontalAlignment="Left" Height="28" Margin="166,71,0,0" VerticalAlignment="Top" Width="28" RenderTransformOrigin="0.724,0.644"/>
+        <TextBox x:Name="SearchId" HorizontalAlignment="Left" Height="21" Margin="225,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80"/>
+        <Label x:Name="Navn" Content="" HorizontalAlignment="Left" Height="42" Margin="80,138,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="Pelsfarven" Content="" HorizontalAlignment="Left" Height="47" Margin="80,170,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="Lever" Content="" HorizontalAlignment="Left" Height="47" Margin="80,210,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="Add" Content="Add Kat" HorizontalAlignment="Left" Height="28" Margin="657,68,0,0" VerticalAlignment="Top" Width="81" Click="Add_Click"/>
+        <TextBox x:Name="NameToAdd" HorizontalAlignment="Left" Height="21" Margin="668,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="59"/>
+        <TextBox x:Name="Pelsfarve" HorizontalAlignment="Left" Height="21" Margin="668,159,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="59"/>
+        <CheckBox x:Name="Levende" Content="Levende" HorizontalAlignment="Left" Margin="665,249,0,0" VerticalAlignment="Top"/>
+        <Label Content="Navn:" HorizontalAlignment="Left" Height="28" Margin="600,117,0,0" VerticalAlignment="Top" Width="68" RenderTransformOrigin="0.724,0.644"/>
+        <Label Content="Pelsfarve:" HorizontalAlignment="Left" Height="28" Margin="600,155,0,0" VerticalAlignment="Top" Width="96" RenderTransformOrigin="0.724,0.644"/>
+        <ListBox x:Name="KatListe" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="291,138,361,50"/>
+        <Button x:Name="VisKatte" Content="Vis Alle Katte" HorizontalAlignment="Left" Margin="464,261,0,0" VerticalAlignment="Top" Height="43" Width="75" Click="VisKatte_Click"/>
+        <CheckBox x:Name="LevendeKatte" Content="Levende" HorizontalAlignment="Left" Margin="571,356,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="VisKatteCheckbox" Content="Vis Alle &#xD;&#xA;Katte ifølge&#xD;&#xA;checkbox" HorizontalAlignment="Left" Margin="464,328,0,0" VerticalAlignment="Top" Height="56" Width="75" Click="VisKatteCheckbox_Click"/>
+        <Button x:Name="RedigerKatte" Content="Rediger Kat" HorizontalAlignment="Left" Margin="524,28,0,0" VerticalAlignment="Top" Height="31" Width="74" Click="RedigerKatte_Click"/>
+        <TextBox x:Name="RedigerId" HorizontalAlignment="Left" Margin="524,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60" Height="21"/>
+        <TextBox x:Name="RedigerNavn" HorizontalAlignment="Left" Margin="524,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60" Height="21"/>
+        <TextBox x:Name="RedigerPelsfarve" HorizontalAlignment="Left" Margin="524,159,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60" Height="21"/>
+        <Label Content="Id:" HorizontalAlignment="Left" Margin="479,80,0,0" VerticalAlignment="Top"/>
+        <Label Content="Navn:" HorizontalAlignment="Left" Margin="463,117,0,0" VerticalAlignment="Top" Height="28" Width="55"/>
+        <Label Content="Pelsfarve:" HorizontalAlignment="Left" Margin="444,159,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="RedigerLevende" Content="Levende" HorizontalAlignment="Left" Margin="520,234,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="EjerIdFelt" HorizontalAlignment="Left" Margin="665,201,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="62" Height="16"/>
+        <Label Content="EjerId:" HorizontalAlignment="Left" Margin="603,194,0,0" VerticalAlignment="Top"/>
+        <Label x:Name ="EjerFeltet" Content="" HorizontalAlignment="Left" Margin="80,282,0,0" VerticalAlignment="Top" Height="47" Width="75"/>
+        <Label Content="EjerId:" HorizontalAlignment="Left" Margin="459,194,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.52,0.528"/>
+        <TextBox x:Name="RedigerEjerId" HorizontalAlignment="Left" Margin="524,196,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60" Height="21"/>
+
+
+    </Grid>
+</Window>
