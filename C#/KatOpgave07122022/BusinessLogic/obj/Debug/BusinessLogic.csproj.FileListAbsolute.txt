@@ -1,0 +1,70 @@
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\BusinessLogic.dll
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\BusinessLogic.pdb
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\DTO.dll
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\EmployeeDataAccess.dll
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\EntityFramework.dll
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\DTO.pdb
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\EmployeeDataAccess.pdb
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\EmployeeDataAccess.dll.config
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\EntityFramework.xml
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\BusinessLogic\obj\Debug\BusinessLogic.dll
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\BusinessLogic\obj\Debug\BusinessLogic.pdb
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+H:\DotNet\S22\Sessioner\Session 16\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\EmployeeDataAccess.dll
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\EmployeeDataAccess.pdb
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\EmployeeDataAccess.dll.config
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\klbo\OneDrive - EFIF\DotNet\E22\DMU-21v\Sessioner\Session 9\Eksempel\EmployeeApp\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\DTO.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\KatDataAccess.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\DTO.pdb
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\KatDataAccess.pdb
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\KatDataAccess.dll.config
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\System.Buffers.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\System.Memory.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\System.Net.Http.Json.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\System.Text.Json.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\System.ValueTuple.dll
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\DTO.dll.config
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\System.Buffers.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\System.Memory.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\System.Net.Http.Json.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\System.Text.Json.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\madse\source\repos\KatObligatoriskOpgaveAndersMadsen\BusinessLogic\bin\Debug\System.ValueTuple.xml
