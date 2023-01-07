@@ -1,0 +1,19 @@
+extends layout
+block append styles
+    link(rel='stylesheet' href='css/loginSide.css')
+
+block append scripts
+    script(src = 'script/login.js' defer='')
+
+block append content
+    div#root
+        div#loginDiv
+            div.inputField
+                div Username
+                input#loginName(type='text', placeholder='username')
+            div.inputField
+                div Password
+                input#loginPassword(type='password' placeholder='password')
+            div#buttonDiv
+                button.LogonWCreds Login
+            div#error

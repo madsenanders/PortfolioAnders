@@ -1,0 +1,19 @@
+doctype html
+html
+    head
+        meta(charset="UTF-8")
+        title Fløjstrupgaard
+        block scripts
+
+        block styles
+            link(rel='stylesheet' href='css/layout.css')
+
+        link(rel="icon" href="/image/floejLogoCut.png")
+
+    body
+        div#layout
+            include includes/header.pug
+            div#main
+                block content
+
+            include includes/footer.pug

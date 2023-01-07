@@ -1,0 +1,43 @@
+.slideshow-container {
+    position: relative;
+    margin: auto;
+}
+
+.text {
+    color: #f2f2f2;
+    position: absolute;
+    bottom: 1rem;
+    width: 45%;
+}
+
+.fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+@keyframes fade {
+    from {opacity: .5}
+    to {opacity: 1}
+}
+
+#dot-container{
+    text-align:center;
+}
+
+.dot {
+    height: 1rem;
+    width: 1rem;
+    margin: 0 0.15rem;
+    background-color: #bbb;
+    border-radius: 100%;
+    right: 220px;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+.dot:hover {
+    cursor: pointer;
+}
+
+.active {
+    background-color: #717171;
+}

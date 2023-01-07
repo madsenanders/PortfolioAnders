@@ -1,0 +1,65 @@
+extends layout
+
+block append scripts
+    script(src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js')
+    script(type="module" src='script/datePicker.js' defer='')
+    script(src='/script/slideshow.js' defer='')
+
+block append styles
+    link(rel='stylesheet' href='css/startside.css')
+    link(rel='stylesheet', href='/css/slideshow.css')
+
+block append content
+    div#startsideGrid
+        div#slideshow-container
+            .slideshow-container
+                .mySlides.fade
+                    img(src='/image/FloejstrupgaardSne.jpg', style='width:75%')
+                    //.text Gaard
+                .mySlides.fade
+                    img(src='/image/FloejstrupMangeJuletraer.jpg', style='width:75%')
+                    //.text Trae
+                .mySlides.fade
+                    img(src='/image/Flojstrupgaard.png', style='width:75%')
+                    //.text Sne
+                .mySlides.fade
+                    img(src='/image/FloejstrupDoBeJuletrae.jpg', style='width:75%')
+            div#dot-container
+                span.dot
+                span.dot
+                span.dot
+                span.dot
+
+        div#travlhed-container
+            div#graf
+                canvas#myChart()
+            div#datePicker
+                p#grafInfo
+                    span(style='color:blue') blå linje = gennemsnit
+                    |   &
+                    span(style='color:green')  søjler = travlhed på dato
+                input#tid(type='datetime-local' name='tid')
+            div#grafKnapDiv
+                label(for='tid') Hvornår ser vi dig?
+                button#grafKnap Bekræft denne tid
+
+
+        div#priser-container
+            h1 Velkommen til Fløjstrupgaard
+            p Vi sælger Nordmannsgran juletræer samt pyntegrønt af Nobilis og Nordmannsgran <br> den sidste weekend i november, alle weekends i december frem til jul og også <br> den 20. - 23. december. Alle dage kl. 10 - 16.
+            p Der er mulighed for selv at fælde træet, eller man kan vælge et, der allerede er fældet.
+            p Prisen er 125 kr. pr. meter for træer op til 3 meters højde <br> &emsp; - for højere træer aftales prisen individuelt.
+            p Pyntegrønt koster 30 kr. for et stort bundt.
+            p Vi sælger også juletræsfødder til mindre træer (max højde ca. 180 cm).
+            p Du kan betale kontant samt med MobilePay.
+            p Vi har igen i år lavet et samarbejde med Norsminde Kro, så du efter at have købt et <br> juletræ hos os kan køre til kroen og få rabat. Husk at bede om en kvittering på dit køb hos os.
+
+
+        div#klimainfo-container
+            h1 Juletræer dyrket med minimal anvendelse af kemi
+            p Vore juletræer dyrkes efter Global G.A.P. standarden. Det er en frivillig certificeringsstandard, der er lavet for at sikre forbrugere bedre dokumentation og sporbarhed i landbrugsproduktionen. G.A.P. er en forkortelse for Good Agricultural Practice (Godt landmandsskab). Det betyder, at juletræerne er produceret med mindst mulig anvendelse af sprøjtemidler og gødning og med fokus på arbejdsmiljøet. Fx. bruger vi ikke kemi til topskudsregulering og vore træer er gødet delvis med naturgødning (pilleret hønsemøg).
+
+            p Standarden er udarbejdet af en række europæiske detailkæder og fødevareproducenter. De store detailvarekæder i Europa stiller krav om dokumentation for produktionsforholdene for alle typer af varer, som de sælger – og dermed også for juletræerne. Global G.A.P anvendes i mere end 100 lande verden over. Læs mere om Global G.A.P. her:
+            a(href="/http://www.globalgap.org/uk_en/") http://www.globalgap.org/uk_en/
+
+

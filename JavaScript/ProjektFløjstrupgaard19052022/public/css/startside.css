@@ -1,0 +1,44 @@
+label {
+    display: block;
+    font: 2.2rem 'Fira Sans', sans-serif;
+}
+
+input, label {
+    margin: .4rem 0;
+}
+
+#startsideGrid{
+    width: auto;
+    display: grid;
+    grid-template-columns: 65% 35%;
+    grid-template-rows: 50% 50%;
+}
+
+#grafKnapDiv {
+    text-align: center;
+}
+
+#grafKnap {
+    width: 40%;
+    font-size: 1.5rem;
+}
+
+#datePicker {
+    text-align: center;
+}
+
+#grafInfo {
+    font-size: 15px;
+}
+
+#tid {
+    font-size: 1.5rem;
+}
+
+#priser-container {
+    padding-bottom: 10rem;
+}
+
+#priser-container h1{
+    text-align: left;
+}

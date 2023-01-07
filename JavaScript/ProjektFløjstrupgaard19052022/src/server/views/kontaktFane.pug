@@ -1,0 +1,43 @@
+extends layout
+
+block append scripts
+    script(src='/script/kontaktSide.js' defer='')
+
+block append styles
+    link(rel='stylesheet' href='css/KontaktFane.css')
+
+block append content
+    body
+        div#sideContainer
+            form#beskedForm(action='/kontakt' method='post')
+                div#navn
+                    label Dit navn
+                        input(type="text" name="fornavn" placeholder="" required="required")
+                div#firmaNavn
+                    label Firmanavn (Valgfri)
+                        input(type="text" name= "Firmanavn" placeholder="" )
+                div#Email
+                    label E-mail
+                        input(type="text" name="Email" placeholder="" required="required")
+                div#tlfNummer
+                    label Telefon Nummer
+                        input(type="text" name="tlfNummer" placeholder="" required="required")
+                div#emne
+                    label Vælg et emne
+                        select(id="emner" name="emne")
+                            option  Bestilling
+                            option  Feedback
+                            option  Andet
+                div#Besked
+                    label Besked (Maks 300 karakterer)
+                        textarea(name="Besked" maxlength="300" required="required")
+                div#submit
+                    input(id="submitButton" type="submit")
+
+            div#kontaktInfo
+                h1#kinfo Yderligere kontaktinformation
+                p Tove og Morten Sejersen
+                p Kirkebakken 130
+                p 8330 Beder
+                p Tlf. 86936510 / 21174510
+                p floejstrupgaard@mail.dk

@@ -1,0 +1,16 @@
+#SelvskovningGrid{
+    width: auto;
+    height: 500px;
+    display: grid;
+    grid-template-columns: 65% 35%;
+    grid-template-rows: 100%
+}
+
+#SelvskovButton {
+    color: red;
+}
+
+#slideshowContainer{
+
+}
+

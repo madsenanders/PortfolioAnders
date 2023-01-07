@@ -1,0 +1,83 @@
+#main {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 7%;
+    padding-bottom: 50px;
+}
+
+body {
+    font: 14px "Fira Sans", Helvetica, Arial, sans-serif;
+    margin: 0px;
+    background-color: #CEDCAA;
+}
+
+.header {
+    background-color: darkgreen;
+    box-shadow: 7px 7px 10px #3e4d1a;
+    display: flex;
+    width: 100%;
+    font-weight: bold;
+    height: 10%;
+    padding: 0rem 1rem 0rem 1rem;
+    position: fixed;
+    z-index:+1;
+}
+
+#logosection img{
+    height: 65%;
+}
+
+#logosection img:hover{
+    cursor: pointer;
+}
+
+.headerbuttons {
+    font-size: 1.5em;
+    margin-right: 4%;
+    padding-top: 2%;
+    color: #ccddb7  ;
+}
+
+/** Login knapper **/
+#loginButtons {
+    padding-top: 0.5rem;
+}
+
+#loginButtons div {
+    border: solid black;
+    cursor: pointer;
+    height: 1.8rem;
+    width: 4rem;
+    font-size: 1.2rem;
+}
+#loginButtons div:hover {
+    background-color: #007700;
+}
+
+.headerbuttons div:hover {
+    color: white;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#footer {
+    background-color: green;
+    color: white;
+    height: 2%;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    padding-bottom: 2.5rem;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Fira Sans";
+
+}
+
+p {
+    font-family: "Fira Sans";
+    font-size: large;
+}

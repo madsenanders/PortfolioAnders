@@ -1,0 +1,38 @@
+extends layout
+
+block append script
+    script(src='/script/slideshow.js' defer='')
+
+block append styles
+    link(rel='stylesheet' href='css/SelvskovningBrænde.css')
+    link(rel='stylesheet', href='/css/slideshow.css')
+
+block append content
+    div#SelvskovningGrid
+        div#slideshowContainer
+            body
+                .slideshow-container
+                    .mySlides.fade
+                        img(src='/image/Brænde1.jpg', style='width:75%')
+                    .mySlides.fade
+                        img(src='/image/Brænde2.jpg', style='width:75%')
+                    .mySlides.fade
+                        img(src='/image/Brænde3.jpg', style='width:75%')
+                    .mySlides.fade
+                        img(src='/image/Brænde4.jpg', style='width:75%')
+                    .mySlides.fade
+                        img(src='/image/Brænde5.jpg', style='width:75%')
+                div(style='text-align:center')
+                    span.dot
+                    span.dot
+                    span.dot
+                    span.dot
+                    span.dot
+
+
+        div#priser-container
+            h1 Selvskovning Brænde
+            p Vi har overtaget en del af Malling Østerskov, hvor vi sælger træ til selvskovning for 200 kr. pr. rummeter inkl. moms.
+            p Desuden skoves der til andre formål, senest asketræ til møbelindustrien i Vietnam.
+            p I skovens nordøstlige hjørne er der tydelige spor af højryggede agre, formentlig fra middelalderen. Ved højryggede agre forstås en dyrkningsmåde, hvorved den dyrkede jord pløjes op i aflange, forholdsvis flade højderygge adskilte ved lavninger.
+            p Fordelene ved denne dyrkningsmåde er, at den sikrer en vis afdræning af den dyrkede jord, idet vandet løber af ned i de mellemliggende lavninger. Efter indførelsen af moderne dræning med dræningsrør er denne pløjemetode ikke mere nødvendig.

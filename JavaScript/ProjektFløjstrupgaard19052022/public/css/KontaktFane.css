@@ -1,0 +1,91 @@
+#sideContainer{
+    display:grid;
+    grid-template-columns: 70% auto;
+}
+
+#kinfo{
+    text-align:left;
+}
+
+#beskedForm{
+    width: auto;
+    height:auto;
+    display:grid;
+    grid-template-columns: 50% 50%;
+    gap: 20px;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+label{
+    float: left;
+    width: 200px;
+    padding-right: 24px;
+}
+
+input[type=submit]{
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+/* opsætning af grid */
+#navn{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+#firmaNavn{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+#Email{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+#tlfNummer{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+#emne{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 3;
+    grid-row-end: 4;
+
+}
+
+textarea[name="Besked"]{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 4;
+    grid-row-end: 5;
+    width: 500px;
+    height: 300px;
+    resize: none;
+}
+
+#submit{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 5;
+    grid-row-end: 6;
+}
+

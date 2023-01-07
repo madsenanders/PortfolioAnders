@@ -1,0 +1,35 @@
+#root {
+    display: grid;
+    grid-template-columns: auto 20% auto;
+    grid-template-rows: auto;
+    padding-top: 10rem;
+}
+
+#loginDiv {
+    display: flex;
+    border: solid;
+    flex-direction: column;
+    align-items: center;
+    background-color: darkgreen;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.inputField {
+    padding-top: 1rem;
+}
+
+#buttonDiv {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#buttonDiv button{
+    background-color: lightgreen;
+    width: 5rem;
+}
+
+#error {
+    color: red;
+}

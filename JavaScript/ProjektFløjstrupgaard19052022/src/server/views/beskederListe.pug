@@ -1,0 +1,28 @@
+doctype html
+head
+    script(src='script/login.js' defer)
+    script(type='module'  src='script/beskeder.js' defer)
+    link(rel='stylesheet' href='css/layout.css')
+    link(rel='stylesheet' href='css/beskeder.css')
+
+body
+    div.header
+        div.headerbuttons#logosection
+            img(src="/image/floejLogoCut.png")
+
+        div#loginButtons
+            div.logoutButton Logout
+
+    div.gridContainer
+        div.inbox
+            ul.beskedListe inbox
+
+        div.message
+            div.navn Navn: DevGruppe
+            div.firma Firma: Devs
+            div Besked:
+                div.besked Hej <br> Jeg vil gerne bestille 40  træer
+
+    div#footer
+        .footer-wrapper
+            p Vi har åben fra den sidste weekend i November, og alle weekender i December fra 10-16 frem til juleaften

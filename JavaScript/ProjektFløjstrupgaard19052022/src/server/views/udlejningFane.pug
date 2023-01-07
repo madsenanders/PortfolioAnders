@@ -1,0 +1,56 @@
+extends layout
+
+block append scripts
+    script(src='/script/slideshow.js' defer='')
+
+block append styles
+    link(rel='stylesheet' href='css/udlejningFane.css')
+    link(rel='stylesheet', href='/css/slideshow.css')
+
+block append content
+    h1 Udlejning
+    p Vi udlejer 2 boliger, hestestald, ridebane og rondel samt bygninger til opbevaring af campingvogne, maskiner m.m.
+    div#udlejningGrid
+        div#container1
+            div.billed
+                img(src='/image/udlejningFane/FloejstrupgaardHus_Udlejning.jpg')
+                p Kirkebakken 133. Tidligere aftægtshus, som er istandsat. Indeholder stor stue, køkken <br> og bad i stueetage samt to soveværelser på 1. sal, det ene med hems. Opvarmes med <br> brændeovn og jordvarme. Fibernet. Carport og stort udhus. Drivhus og stor have. Er udlejet.
+            div#slideshow-container
+                .slideshow-container
+                    .mySlides.fade
+                        img(src='/image/udlejningFane/udlejningSlide/Kirkebakken133set_fra_haven.jpg')
+                        .text Kirkebakken 133: Set fra haven
+                    .mySlides.fade
+                        img(src='/image/udlejningFane/udlejningSlide/Kirkebakken133haven.jpg')
+                        .text Kirkebakken 133: Haven
+                    .mySlides.fade
+                        img(src='/image/udlejningFane/udlejningSlide/Kirkebakken133stuen.jpg')
+                        .text Kirkebakken 133: Stuen
+                    .mySlides.fade
+                        img(src='/image/udlejningFane/udlejningSlide/Kirkebakken133køkken.jpg')
+                        .text Kirkebakken 133: Køkkenet
+                    .mySlides.fade
+                        img(src='/image/udlejningFane/udlejningSlide/Kirkebakken133stuen2.jpg')
+                        .text Kirkebakken 133: Stuen
+                div#dot-container
+                    span.dot
+                    span.dot
+                    span.dot
+                    span.dot
+                    span.dot
+        p ______________________________________________________________________________________________________________________________________________________
+
+        div#container2
+            div.billed
+                img(src='/image/udlejningFane/FloejstrupgaardHus3_Udlejning.jpg')
+                p Kirkebakken 132. En god bolig med stor stue, soveværelse, køkken og bad. Fibernet.<br> Fra stuen er der udgang til egen lukket have. Er udlejet.
+            div#skalbrugeettag
+                img(src='/image/udlejningFane/FloejstrupgaardHus4_Udlejning.jpg')
+                p Adgang til ridebane (ca. 20x40 meter) og rondel lejes for et halvt år eller en måned af <br> gangen eller pr. gang. Leje henholdsvis 600,00 kr, 150,00 kr eller 20,00 kr inklusive moms.<br> Ridebanen ligger i læ af bevoksning og bygninger og er med god fast bund.
+
+        p ______________________________________________________________________________________________________________________________________________________
+
+        div#container3
+            div.billed
+                img(src='/image/udlejningFane/Floejstrupgaard_CampingUdlejning.jpg')
+                p Hal til opbevaring af campingvogne mm

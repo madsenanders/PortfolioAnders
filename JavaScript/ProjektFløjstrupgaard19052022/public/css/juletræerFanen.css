@@ -1,0 +1,22 @@
+#salg, #kemi, #tv2 {
+    width: auto;
+    height: 500px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 100%;
+    padding-bottom: 3rem;
+}
+
+ul {
+    list-style-type: square;
+    font-size: medium;
+}
+
+#container2, #container3, #container6 {
+    text-align: center;
+}
+iframe {
+    width: 700px;
+    height: 450px;
+}
+

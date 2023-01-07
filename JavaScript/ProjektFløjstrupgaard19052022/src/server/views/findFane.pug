@@ -1,0 +1,28 @@
+extends layout
+
+
+block append styles
+    link(rel='stylesheet' href='css/findFane.css')
+    script src = 'https://unpkg.com/@googlemaps/js-api-loader@1.0.0/dist/index.min.js'
+    script(src = 'script/googleMaps.js' defer='')
+    script src = 'https://polyfill.io/v3/polyfill.min.js?features=default'
+
+
+block append content
+    div#Findfanen
+        h1  Sådan finder du os
+            br
+            div#container1
+                p Tove og Morten Sejersen
+                p Kirkebakken 130
+                p 8330 Beder
+                p Tlf: 86936510 / 21174510
+                p Email: floejstrupgaard@mail.dk
+                br
+                <iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=130%20kirkebakken&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://putlocker-is.org"></a><br><style>.mapouter{position:relative;text-align:center;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net"></a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;text-align:center;}</style>
+                br
+                a#linksBu(href = 'https://www.google.com/maps/dir//Kirkebakken+130+8330+Beder/@56.0605606,10.2407763,13z/data=!4m5!4m4!1m0!1m2!1m1!1s0x464c41450e7eb843:0x2df29d507adc5c3d' target="_blank") <span>Vis mig vejen</span>
+                br
+                br
+                br
+                br

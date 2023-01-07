@@ -1,0 +1,42 @@
+.gridContainer {
+    display: grid;
+    padding-top: 8rem;
+    grid-template-columns: auto 20% 40% auto;
+}
+
+/** inbox section **/
+.inbox {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    border: solid black;
+}
+
+.inbox ul {
+    list-style-type: none;
+}
+
+.inbox ul li {
+    border: solid green;
+}
+
+.inbox ul li:hover {
+    cursor: pointer;
+    background-color: red;
+}
+
+/** message section **/
+.message {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    border: solid black;
+}
+
+.message div {
+    padding-left: 2rem;
+    padding-top: 2rem;
+}
+
+.besked {
+    background-color: rgba(0, 100, 0, 0.27);
+    padding-bottom: 3rem;
+}

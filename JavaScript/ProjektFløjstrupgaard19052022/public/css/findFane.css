@@ -1,0 +1,61 @@
+#Findfanen {
+    width: auto;
+    height: 500px;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 100%;
+    text-align: center;
+}
+
+#FindButton {
+    color: red;
+}
+
+#container1{
+    text-align: center;
+}
+
+
+#linksBu {
+    background-color: darkgreen;
+    box-shadow: 0 5px 0 #3e4d1a;
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    border-radius: 45px;
+}
+
+#linksBu:hover {
+    background-color: green;
+    cursor: pointer;
+}
+
+#linksBu:active {
+    box-shadow: none;
+    top: 5px;
+}
+#linksBu span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+#linksBu span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+#linksBu:hover span {
+    padding-right: 25px;
+}
+
+#linksBu:hover span:after {
+    opacity: 1;
+    right: 0;
+}

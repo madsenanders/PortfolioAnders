@@ -1,0 +1,37 @@
+#udlejningGrid{
+    height: auto;
+    display: grid;
+}
+
+#UdlejningButton {
+    color: red;
+}
+
+#container1 {
+    display: flex;
+    flex-direction: row;
+}
+.billed p {
+    margin-top: 0px;
+}
+#slideshow-container , #skalbrugeettag{
+    margin-left: 40px;
+}
+
+#container2 {
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    /*border: solid darkblue;*/
+}
+
+#container3 {
+    display: flex;
+    flex-direction: row;
+}
+#container3 img{
+    height: 43%;
+}
+
+
+
